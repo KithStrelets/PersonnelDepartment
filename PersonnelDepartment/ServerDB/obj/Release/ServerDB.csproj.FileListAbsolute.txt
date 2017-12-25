@@ -1,0 +1,6 @@
+H:\My files\GraphDisplay\Lab7\PersonnelDepartment\ServerDB\bin\Release\ServerDB.exe.config
+H:\My files\GraphDisplay\Lab7\PersonnelDepartment\ServerDB\bin\Release\ServerDB.exe
+H:\My files\GraphDisplay\Lab7\PersonnelDepartment\ServerDB\bin\Release\ServerDB.pdb
+H:\My files\GraphDisplay\Lab7\PersonnelDepartment\ServerDB\obj\Release\ServerDB.csprojResolveAssemblyReference.cache
+H:\My files\GraphDisplay\Lab7\PersonnelDepartment\ServerDB\obj\Release\ServerDB.exe
+H:\My files\GraphDisplay\Lab7\PersonnelDepartment\ServerDB\obj\Release\ServerDB.pdb

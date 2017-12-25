@@ -1,0 +1,10 @@
+H:\My files\GraphDisplay\Lab7\PersonnelDepartment\ServerDB\bin\Debug\ServerDB.exe.config
+H:\My files\GraphDisplay\Lab7\PersonnelDepartment\ServerDB\bin\Debug\ServerDB.exe
+H:\My files\GraphDisplay\Lab7\PersonnelDepartment\ServerDB\bin\Debug\ServerDB.pdb
+H:\My files\GraphDisplay\Lab7\PersonnelDepartment\ServerDB\bin\Debug\Npgsql.dll
+H:\My files\GraphDisplay\Lab7\PersonnelDepartment\ServerDB\bin\Debug\System.Threading.Tasks.Extensions.dll
+H:\My files\GraphDisplay\Lab7\PersonnelDepartment\ServerDB\bin\Debug\Npgsql.xml
+H:\My files\GraphDisplay\Lab7\PersonnelDepartment\ServerDB\bin\Debug\System.Threading.Tasks.Extensions.xml
+H:\My files\GraphDisplay\Lab7\PersonnelDepartment\ServerDB\obj\Debug\ServerDB.csprojResolveAssemblyReference.cache
+H:\My files\GraphDisplay\Lab7\PersonnelDepartment\ServerDB\obj\Debug\ServerDB.exe
+H:\My files\GraphDisplay\Lab7\PersonnelDepartment\ServerDB\obj\Debug\ServerDB.pdb
